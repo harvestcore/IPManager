@@ -1,26 +1,6 @@
 # IPManager
 
-![CI](https://github.com/harvestcore/tfg/workflows/CI/badge.svg)
-
-Repositorio para el TFG del Grado en Ingeniería Informática.
-
-**Autor: Ángel Gómez Martín**
-
-
-
-## Proyecto
-
-Sistema que permite a una empresa:
-
-- Desplegar puestos de trabajo en los cuales haya una serie de herramientas preinstaladas, y se puedan registrar desde un puesto de administración y usar de forma inmediata. 
-- Desplegar servicios en contenedores Docker.
-- Almacenar configuraciones de máquinas o dispositivos.
-
-
-
-## Documentación
-
-Puedes consultar la documentación completa [aquí](dev/doc.md).
+![CI](https://github.com/harvestcore/IPManager/workflows/CI/badge.svg)
 
 
 
