@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       working-directory: ./backend
-      MONGO_HOSTNAME: ${{ secrets.MONGO_HOSTNAME }}
+      MONGO_HOSTNAME: 172.17.0.2
 
     steps:
     - name: Git checkout
